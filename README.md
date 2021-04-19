@@ -18,7 +18,7 @@
     }
 ```
 
-!img[](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionCheckWord.JPG)
+![img](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionCheckWord.JPG)
 
 2. Action Check View Website :
 
@@ -35,7 +35,7 @@
     }
 ```
 
-!img[](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionViewWeb.JPG)
+![img](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionViewWeb.JPG)
 
 3. Action Check View Maps :
 
@@ -51,7 +51,7 @@
     }
 ```
 
-!img[](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionViewMaps.JPG)
+![img](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionViewMaps.JPG)
 
 4. Action Check Dial Call :
 
@@ -67,4 +67,4 @@
     }
 ```
 
-!img[](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionDialPhone.JPG)
+![img](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionDialPhone.JPG)
