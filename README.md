@@ -1,6 +1,6 @@
 # Belajar Mengimplementasikan Sebuah Intent
 
-1. 1.Action Check Kata :
+1. Action Check Kata :
 
 ```
 @Override
@@ -53,7 +53,7 @@
 
 ![img](https://github.com/zaenalmusthofa86/IntentCaller/blob/main/img/ActionViewMaps.JPG)
 
-4. Action Check Dial Call :
+4. Action Check Dial Calling :
 
 ```
 @Override
